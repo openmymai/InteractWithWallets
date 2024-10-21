@@ -1,4 +1,4 @@
-# Interact with Wallets
+## Interact with Wallets
 
 - **Wallets** store your secret key and allow users to sign transactions
 - **Hardware wallets** store your secret key on a separate device
